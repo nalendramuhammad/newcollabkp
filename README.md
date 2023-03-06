@@ -2,7 +2,7 @@
 
 <h3>1. Node.js</h3>
 <p>Node.js adalah runtime environment untuk JavaScript yang bersifat open-source dan cross-platform. Dengan Node.js kita dapat menjalankan kode JavaScript di mana pun, tidak hanya terbatas pada lingkungan browser.</p>
-<h2>Download Git</h2>
+<h2>Download Node.js</h2>
 <p>Link download : <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a></p>
 <p></p>
 <p>tutorial node js dasar : https://www.petanikode.com/nodejs-pemula/</p>
