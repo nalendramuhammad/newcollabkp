@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch",
+    "final": "npx tailwindcss -o ./public/css/finalstyle.css --minify"
   },
   "repository": {
     "type": "git",
@@ -19,7 +21,6 @@
   "homepage": "https://github.com/whosenalendra/newcollabkp#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.7"
+    "postcss": "^8.4.21"
   }
 }
